@@ -8,5 +8,5 @@ comments: false
 ---
 
 
-You can also download my <a href="https://drive.google.com/file/d/12hdTBoSnzx7B0u9eriXqMkNB1HQFmVna/view?usp=sharing" target="_blank">full CV</a>.
+You can also view my full CV <a href="https://drive.google.com/file/d/12hdTBoSnzx7B0u9eriXqMkNB1HQFmVna/view?usp=sharing" target="_blank">here</a>.
 
